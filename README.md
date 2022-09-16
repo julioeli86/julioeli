@@ -1,6 +1,6 @@
 # RapidMiner-Portfolio
 
-The attached Haberman's dataset (Excel) contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago's Billings Hospital on the survival of patients who had undergone surgery for breast cancer.
+The attached Haberman's dataset (HabermansSurvivalData.xlsx) contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago's Billings Hospital on the survival of patients who had undergone surgery for breast cancer.
 
 This data set is named "Haberman's Survival Data" because it was first used in a research paper by S. J. Haberman.
 
