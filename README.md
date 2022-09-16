@@ -29,10 +29,15 @@ The objective of the project is to find the best performing classification model
 The data set named "Haberman's Survival Data" was analyzed using the following models: 
 
 •	***Decision tree***
+
 •	***kNN***
+
 •	***Naive Bayesian***
+
 •	***ANN***
+
 •	***SVM***
+
 •	***Ensemble learners (Voting, Bagging and Random Forest)***
 
 Some of the models were analyzed using the numerical to binomial operator as allowed by Rapid Miner. Others were analyzed without the numerical to binomial operator. A detailed list of what operators were analyzed in each case is presented in Table 1.
