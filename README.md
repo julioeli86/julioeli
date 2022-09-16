@@ -25,3 +25,14 @@ This data set has 306 records. The following are the attributes.
 The objective of the project is to find the best performing classification model to predict if a patient will survive five years or longer after the surgery.
 
 # Response
+
+The data set named "Haberman's Survival Data" was analyzed using the following models: 
+
+•	***Decision tree
+•	kNN
+•	Naive Bayesian
+•	ANN
+•	SVM
+•	Ensemble learners (Voting, Bagging and Random Forest)***
+
+Some of the models were analyzed using the numerical to binomial operator as allowed by Rapid Miner. Others were analyzed without the numerical to binomial operator. A detailed list of what operators were analyzed in each case is presented in Table 1.
