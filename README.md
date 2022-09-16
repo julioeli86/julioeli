@@ -7,12 +7,15 @@ This data set is named "Haberman's Survival Data" because it was first used in a
 This data set has 306 records. The following are the attributes.
 
 •	Age of patient at time of operation (numerical)
+
 •	Patient's year of operation (year - 1900, numerical)
+
 •	Number of positive axillary nodes detected (numerical)
 
 − Survival status (class attribute)
 
 •	1 = the patient survived 5 years or longer
+
 •	2 = the patient died within 5 year
 
 The objective of the project is to find the best performing classification model to predict if a patient will survive five years or longer after the surgery.
