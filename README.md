@@ -41,3 +41,5 @@ The data set named "Haberman's Survival Data" was analyzed using the following m
 •	***Ensemble learners (Voting, Bagging and Random Forest)***
 
 Some of the models were analyzed using the numerical to binomial operator as allowed by Rapid Miner. Others were analyzed without the numerical to binomial operator. A detailed list of what operators were analyzed in each case is presented in Table 1.
+
+![My Image](my-image.jpg)
