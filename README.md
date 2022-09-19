@@ -54,6 +54,17 @@ Table 3 presents the results for the accuracy value for each of the Decision Tre
 
 According to the analysis performed the kNN model was the best performing model as it has the lowest values for RMSE and SE. The kNN’s RMSE value was 0.237 and the SE value was 0.056 with a tolerance of +/- 0.084. The kNN’s accuracy was the highest with a value of 94.88%.
 
+# Decision Tree (Numerical)
+
+![My Image](FIG-001.jpg)
+
+![My Image](FIG-002.jpg)
+
+![My Image](FIG-003.jpg)
+
+![My Image](FIG-004.jpg)
+
+# Decision Tree (Binomial)
 
 
 
