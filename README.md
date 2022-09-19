@@ -72,6 +72,71 @@ According to the analysis performed the kNN model was the best performing model 
 
 ![My Image](FIG-007.jpg)
 
+# kNN (Numerical)
 
+![My Image](FIG-008.jpg)
 
+![My Image](FIG-009.jpg)
+
+# kNN (Binomial)
+
+![My Image](FIG-010.jpg)
+
+![My Image](FIG-011.jpg)
+
+# Naïve Bayesian (Numerical)
+
+![My Image](FIG-012.jpg)
+
+![My Image](FIG-013.jpg)
+
+![My Image](FIG-014.jpg)
+
+# Naïve Bayesian (Binomial)
+
+![My Image](FIG-015.jpg)
+
+![My Image](FIG-016.jpg)
+
+![My Image](FIG-017.jpg)
+
+# Artificial Neural Network (Numerical)
+
+![My Image](FIG-018.jpg)
+
+![My Image](FIG-019.jpg)
+
+![My Image](FIG-020.jpg)
+
+![My Image](FIG-021.jpg)
+
+# SVM (Numerical)
+
+![My Image](FIG-022.jpg)
+
+![My Image](FIG-023.jpg)
+
+![My Image](FIG-024.jpg)
+
+# Ensemble Learners (Voting)
+
+![My Image](FIG-025.jpg)
+
+![My Image](FIG-026.jpg)
+
+![My Image](FIG-027.jpg)
+
+# Ensemble Learners (Bagging)
+
+![My Image](FIG-028.jpg)
+
+![My Image](FIG-029.jpg)
+
+![My Image](FIG-030.jpg)
+
+# Ensemble Learners (Random Forest)
+
+![My Image](FIG-031.jpg)
+
+![My Image](FIG-032.jpg)
 
