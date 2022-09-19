@@ -43,3 +43,17 @@ The data set named "Haberman's Survival Data" was analyzed using the following m
 Some of the models were analyzed using the numerical to binomial operator as allowed by Rapid Miner. Others were analyzed without the numerical to binomial operator. A detailed list of what operators were analyzed in each case is presented in Table 1.
 
 ![My Image](Table-001-Final-Project.jpg)
+
+Analysis for each of the models was applied using Rapid Miner Table 2 and Table 3 present the corresponding results for each of the models. Table 2 presents a compilation of each of the Root Mean Squared Error (RMSE) and Squared Error (SE) results with tolerances and Micro averages for each of the applicable models.
+
+![My Image](Table-002-Final-Project.jpg)
+
+Table 3 presents the results for the accuracy value for each of the Decision Tree, kNN, and Naïve Bayesian models. All accuracy results are provided with tolerances and Micro averages if available.
+
+![My Image](Table-003-Final-Project.jpg)
+
+According to the analysis performed the kNN model was the best performing model as it has the lowest values for RMSE and SE. The kNN’s RMSE value was 0.237 and the SE value was 0.056 with a tolerance of +/- 0.084. The kNN’s accuracy was the highest with a value of 94.88%.
+
+
+
+
