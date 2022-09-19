@@ -66,5 +66,12 @@ According to the analysis performed the kNN model was the best performing model 
 
 # Decision Tree (Binomial)
 
+![My Image](FIG-005.jpg)
+
+![My Image](FIG-006.jpg)
+
+![My Image](FIG-007.jpg)
+
+
 
 
